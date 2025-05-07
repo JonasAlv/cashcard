@@ -3,7 +3,7 @@
 
 # 💳 CashCard API
 
-A RESTful API built with Spring Boot for managing virtual cash cards. This project serves as an educational example for building secure, testable, and maintainable backend services.([GitHub][1])
+A RESTful API built with Spring Boot for managing virtual cash cards. This project serves as an educational example for building secure, testable, and maintainable backend services.
 
 ## 🚀 Features
 
