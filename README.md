@@ -1,11 +1,11 @@
 
 ---
 
-# 💳 CashCard API
+#  CashCard API
 
 A RESTful API built with Spring Boot for managing virtual cash cards. This project serves as an educational example for building secure, testable, and maintainable backend services.
 
-## 🚀 Features
+##  Features
 
 * Create, retrieve, update, and delete cash cards
 * Secure endpoints with Spring Security
@@ -13,7 +13,7 @@ A RESTful API built with Spring Boot for managing virtual cash cards. This proje
 * Comprehensive testing using JUnit and AssertJ
 * Built with Gradle for streamlined builds
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 * Java
 * Spring Boot
@@ -24,7 +24,7 @@ A RESTful API built with Spring Boot for managing virtual cash cards. This proje
 * AssertJ
 * Gradle
 
-## 📦 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -60,7 +60,7 @@ A RESTful API built with Spring Boot for managing virtual cash cards. This proje
 
 4. Access the API at `http://localhost:8080/cashcards`.
 
-## 🧪 Running Tests
+##  Running Tests
 
 Execute the test suite using:
 
@@ -70,35 +70,8 @@ Execute the test suite using:
 
 
 
-## 📂 Project Structure
 
-```plaintext
-cashcard/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── example/
-│   │   │           └── cashcard/
-│   │   │               ├── CashCardApplication.java
-│   │   │               ├── controller/
-│   │   │               ├── model/
-│   │   │               └── repository/
-│   │   └── resources/
-│   │       └── application.properties
-│   └── test/
-│       └── java/
-│           └── com/
-│               └── example/
-│                   └── cashcard/
-│                       └── CashCardApplicationTests.java
-├── build.gradle
-└── settings.gradle
-```
-
-
-
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
